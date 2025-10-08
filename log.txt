@@ -1,3 +1,4 @@
 Update documentation [ntWE8b] line 2.1
 Add feature for X [Devfya] line 6.2
 Add feature for X [NjUnTp] line 10.2
+Fix issue in Y [nWHrqi] line 11.2
