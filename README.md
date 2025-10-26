@@ -8,3 +8,4 @@ Add feature for X [Devfya] line 6.3
 Fix issue in Y [2RFU2Q] line 7.1
 Update documentation [Fr52D6] line 9.1
 Update documentation [Fr52D6] line 9.2
+Add feature for X [NjUnTp] line 10.1
